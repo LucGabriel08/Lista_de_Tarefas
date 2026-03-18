@@ -1,5 +1,5 @@
 import { FormEvent, useState } from 'react'
-import { UseDispatch, useDispatch } from 'react-redux'
+import { useDispatch } from 'react-redux'
 import { useNavigate } from 'react-router-dom'
 
 import { BotaoSalvar, MainContainer, Titulo } from '../../styles'
